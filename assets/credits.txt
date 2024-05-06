@@ -1,0 +1,8 @@
+# font #
+PixelifySans.ttf: https://fonts.google.com/specimen/Pixelify+Sans
+
+# images #
+startupImage.png: https://kirby.fandom.com/wiki/Kirby
+metaKnight.png: https://wikirby.com/wiki/Meta_Knight
+loseSprite.png: https://kirby.fandom.com/wiki/Sleep
+winSprite.png: https://www.ssbwiki.com/Kirby
